@@ -2,7 +2,7 @@
 
 Race Privacy Policy
 
-This Privacy Policy (the "Policy") explains how information is collected, used and disclosed by Race with respect to your access and use of Race’s services, whether through our websites (located at www.race.com), our mobile applications (Race) or in connection with social networking services (together referred to below as “Race” or the "Service").
+This Privacy Policy (the "Policy") explains how information is collected, used and disclosed by Race with respect to your access and use of Race’s services, whether through our websites , our mobile applications (Race) or in connection with social networking services (together referred to below as “Race” or the "Service").
 
 What Information Do We Collect?
 
@@ -127,7 +127,7 @@ Terms of Service
 
  
 
-PLEASE READ THIS TERMS OF USE AGREEMENT (THIS "AGREEMENT") CAREFULLY. BY USING RACE (THE "APP") OR THIS WEBSITE (HTTP://RACE.COM ) (THE "SITE"), THE USER AGREES THAT THIS AGREEMENT IS ENFORCEABLE AND LEGALLY BINDING. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE AGREEMENT, PLEASE DO NOT USE THE APP, APP SERVICES OR THE SITE.
+PLEASE READ THIS TERMS OF USE AGREEMENT (THIS "AGREEMENT") CAREFULLY. BY USING RACE (THE "APP") OR THIS WEBSITE (THE "SITE"), THE USER AGREES THAT THIS AGREEMENT IS ENFORCEABLE AND LEGALLY BINDING. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THE AGREEMENT, PLEASE DO NOT USE THE APP, APP SERVICES OR THE SITE.
 
 1. License
 
